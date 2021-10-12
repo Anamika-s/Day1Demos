@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\bin\Debug\netcoreapp3.1\DemoOne.exe
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\bin\Debug\netcoreapp3.1\DemoOne.deps.json
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\bin\Debug\netcoreapp3.1\DemoOne.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\bin\Debug\netcoreapp3.1\DemoOne.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\bin\Debug\netcoreapp3.1\DemoOne.dll
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\bin\Debug\netcoreapp3.1\DemoOne.pdb
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.dll
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.pdb
+C:\Users\adminvm.adminvm\source\repos\SolutionOne\DemoOne\obj\Debug\netcoreapp3.1\DemoOne.genruntimeconfig.cache
